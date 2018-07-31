@@ -1,0 +1,13 @@
+{
+  "name": "comp125-s2018-lession12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/u04/COMP125-S2018-Lesson12.git",
+  "license": "MIT"
+},
+{
+"engines": {
+  "node": ">=8.11.3",
+  "npm": "description",
+}
+}
